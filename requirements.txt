@@ -1,0 +1,8 @@
+openai
+langchain
+#telegram
+aiogram
+PyPDF2
+python-dotenv
+azure-ai-documentintelligence==1.0.0b4  
+google-genai==0.2.2
